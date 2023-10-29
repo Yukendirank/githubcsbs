@@ -1,0 +1,23 @@
+*{
+    margin: 10;
+    padding: 10;
+}
+h1{background-color: rgb(19, 163, 199);
+    color: black;
+}
+       
+        nav{
+
+            background-color: white;
+            color: black;
+            padding: 15px;
+        }
+        li,ul{
+            display: inline;
+        }
+        ul{
+            margin-left: 9%;
+        }
+        .dotted-line {
+            border-top: 1px dotted #000; /* 1px line, dotted, black color */
+          }
